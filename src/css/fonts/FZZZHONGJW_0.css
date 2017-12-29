@@ -1,0 +1,10 @@
+@font-face {
+  /*font-family: 'FZZZHONGJW_0';*/
+  font-family: '方正正中黑简体';
+  src: url('./FZZZHONGJW_0.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+@font-face {
+  font-family: 'FZZhengHeiS-DB-GB';
+  src: url('./FZZZHONGJW_0.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}

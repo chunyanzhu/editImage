@@ -1,0 +1,8 @@
+@font-face {
+  font-family: '华文彩云';
+  src: url('./STCAIYUN.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+@font-face {
+  font-family: 'STCaiyun';
+  src: url('./STCAIYUN.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}

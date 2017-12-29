@@ -1,0 +1,9 @@
+
+@font-face {
+  font-family: '楷体';
+  src: url('./SIMKAI.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+@font-face {
+  font-family: 'SimKai';
+  src: url('./SIMKAI.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
